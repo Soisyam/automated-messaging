@@ -3,7 +3,7 @@ import pyautogui
 import time
 
 # List of phone numbers in international format
-phone_numbers = ["+917588738216","+919907266703"]
+phone_numbers = ["+919883865433",]
 
 # Message to send
 message = "automated message send to you using python"
